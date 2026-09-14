@@ -1,19 +1,19 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
-favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+title = "Azi"
+description = "AziLand."
+favicon = "/1.jpg"
+last_updated = "Sept 14, 2026"
 
 [author]
-name = "Jiale Liu"
-title = "PhD Student"
-institution = "University of Example"
-avatar = "/bio.jpg"
+name = "Azi"
+title = "AI Product Operation"
+institution = "Tencent"
+avatar = "/1.jpg"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "john.doe@example.com"
+email = "7x7emily@gmail.com"
 location = "City, Country"
 location_url = "https://maps.google.com"
 location_details = [
